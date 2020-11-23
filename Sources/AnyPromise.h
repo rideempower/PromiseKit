@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 #import <dispatch/dispatch.h>
-#import "fwd.h"
+#import <fwd.h>
 
 /// INTERNAL DO NOT USE
 @class __AnyPromise;
